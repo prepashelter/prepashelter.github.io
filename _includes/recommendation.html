@@ -1,0 +1,30 @@
+<div class="recommendation">
+    <div class="message">
+        <strong>{{ site.translations.recommendation.text | default: "Vous cherchez autre chose?" }}</strong>
+        <div>
+            <button>
+                <svg><use xlink:href="#icon-arrow-right"></use></svg>
+                <span>{{ site.translations.recommendation.back_btn | default: "Revenir en haut" }}</span>
+            </button>
+        </div>
+    </div>
+    {% if page.next %}
+        {% assign recommendation = page.next %}
+    {% else %}
+        {% assign next_posts = site.posts | where_exp:"post","post.is_generated != true" | where_exp:"post","post.path != page.path" %}
+        {% assign shuffled_array = next_posts | shuffle %}
+        {% assign recommendation = shuffled_array.first %}
+    {% endif %}
+    <a href="{{ site.baseurl }} {{ recommendation.url }}" class="post-preview">
+        <div class="image">
+            {% if recommendation.optimized_image %}
+                <img src="{{ site.url }}{{ site.baseurl }}{{ recommendation.url }}">
+            {% elsif recommendation.image %}
+                <img src="{{ site.url }}{{ site.baseurl }}{{ recommendation.image }}">
+            {% else %}
+                <img src="{{ site.url }}{{ site.baseurl }}assets/img/off.jpg">
+            {% endif %}
+        </div>
+        <h3 class="title">{{ recommendation.title }}</h3>
+    </a>
+</div>
