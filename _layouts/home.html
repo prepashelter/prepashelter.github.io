@@ -53,7 +53,7 @@ layout: main
                     <a class="cover" href="{{ post.url | prepend: site.baseurl | prepend: site.url}}">
                         {% include loader.html %}
                         {% if post.optimized_image %}
-                            <img src="{{ site.url }}{{ site.baseurl}}assets/img/placeholder.png" width="100%" data-url="{{ site.url }}{{ site.baseurl}}/{{ post.optimized_image }}" class="preload">
+                            <img src="{{ site.url }}{{ site.baseurl}}assets/img/placeholder.png" width="100%" data-url="{{ site.url }}{{ site.baseurl}}{{ post.optimized_image }}" class="preload">
                             <noscript>
                                 <img src="{{ post.optimized_image | prepend: site.baseurl | prepend: site.url }}" width="100%">
                             </noscript>
