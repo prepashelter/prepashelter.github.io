@@ -55,12 +55,12 @@ layout: main
                         {% if post.optimized_image %}
                             <img src="{{ site.url }}/assets/img/placeholder.png" width="100%" data-url="{{ site.url }}/{{ post.optimized_image }}" class="preload">
                             <noscript>
-                                <img src="{{ post.optimized_image | prepend: site.url }}" width="100%">
+                                <img src="{{ site.url }}/{{ post.optimized_image }}" width="100%">
                             </noscript>
                         {% elsif post.image %}
                             <img src="{{ site.url }}/assets/img/placeholder.png" width="100%" data-url="{{ site.url }}/{{ post.image }}" class="preload">
                             <noscript>
-                                <img src="{{ post.image | prepend: site.url}}" width="100%">
+                                <img src="{{ site.url }}/{{ post.image }}" width="100%">
                             </noscript>
                         {% else %}
                             <img src="{{ site.url }}/assets/img/placeholder.png" width="100%" data-url="{{ site.url }}/assets/img/off.jpg" class="preload">

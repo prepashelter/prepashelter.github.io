@@ -19,7 +19,7 @@ layout: page
     <form accept-charset="UTF-8" method="POST" action="https://formspree.io/f/xoqrrwop" v-on:submit.prevent="validateBeforeSubmit" ref="contact">
       <fieldset>
         <input type="hidden" name="_subject" value="{{ site.translations.contact.subject | default: 'Nouveau contact!' }}" />
-        <input type="hidden" name="_next" value="{{ site.url }}{{ site.sent_message_url }}" />
+        <input type="hidden" name="_next" value="{{ site.url }}/{{ site.sent_message_url }}" />
         <input type="hidden" name="_language" value="{{ site.language }}" />
 
         <input type="text" name="name" placeholder="{{ site.translations.contact.placeholders.name | default: 'Votre nom' }}" v-validate="'required'"
