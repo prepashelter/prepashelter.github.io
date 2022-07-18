@@ -16,7 +16,7 @@
     {% if page.image %}
         {% assign image = page.image %}
     {% else %}
-        {% assign image = "{{ site.url }}{{site.baseurl}}assets/img/blog-image.png"%}
+        {% assign image = "{{ site.url }}/assets/img/blog-image.png"%}
     {% endif %}
 
     {% assign description = '' %}
@@ -28,9 +28,9 @@
 
     {% assign url = '' %}
     {% if paginator.page_trail %}
-        {% assign url = paginator.first_page_path | replace:'index.html','' | prepend: site.baseurl | prepend: site.url %}
+        {% assign url = paginator.first_page_path | replace:'index.html','' | prepend: site.url %}
     {% else %}
-        {% assign url = page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url %}
+        {% assign url = page.url | replace:'index.html','' | prepend: site.url %}
     {% endif %}
 
     <title>{{ title }}</title>
@@ -56,18 +56,18 @@
     <meta property="og:site_name" content="{{ site.title }}">
 
     <!-- Favicon -->
-    <link rel="shortcut icon" href="{{ site.url }}{{ site.baseurl }}favicon.ico" type="image/x-icon" />
+    <link rel="shortcut icon" href="{{ site.url }}/favicon.ico" type="image/x-icon" />
     
     <!-- Apple Touch Icons -->
-    <link rel="apple-touch-icon" href="{{ site.url }}{{ site.baseurl }}assets/img/icons/apple-touch-icon.png" />
-    <link rel="apple-touch-icon" sizes="57x57" href="{{ site.url }}{{ site.baseurl }}assets/img/icons/apple-touch-icon-57x57.png" />
-    <link rel="apple-touch-icon" sizes="72x72" href="{{ site.url }}{{ site.baseurl }}assets/img/icons/apple-touch-icon-72x72.png" />
-    <link rel="apple-touch-icon" sizes="114x114" href="{{ site.url }}{{ site.baseurl }}assets/img/icons/apple-touch-icon-114x114.png" />
-    <link rel="apple-touch-icon" sizes="144x144" href="{{ site.url }}{{ site.baseurl }}assets/img/icons/apple-touch-icon-144x144.png" />
-    <link rel="apple-touch-icon" sizes="60x60" href="{{ site.url }}{{ site.baseurl }}assets/img/icons/apple-touch-icon-60x60.png" />
-    <link rel="apple-touch-icon" sizes="120x120" href="{{ site.url }}{{ site.baseurl }}assets/img/icons/apple-touch-icon-120x120.png" />
-    <link rel="apple-touch-icon" sizes="76x76" href="{{ site.url }}{{ site.baseurl }}assets/img/icons/apple-touch-icon-76x76.png" />
-    <link rel="apple-touch-icon" sizes="152x152" href="{{ site.url }}{{ site.baseurl }}assets/img/icons/apple-touch-icon-152x152.png" />
+    <link rel="apple-touch-icon" href="{{ site.url }}/assets/img/icons/apple-touch-icon.png" />
+    <link rel="apple-touch-icon" sizes="57x57" href="{{ site.url }}/assets/img/icons/apple-touch-icon-57x57.png" />
+    <link rel="apple-touch-icon" sizes="72x72" href="{{ site.url }}/assets/img/icons/apple-touch-icon-72x72.png" />
+    <link rel="apple-touch-icon" sizes="114x114" href="{{ site.url }}/assets/img/icons/apple-touch-icon-114x114.png" />
+    <link rel="apple-touch-icon" sizes="144x144" href="{{ site.url }}/assets/img/icons/apple-touch-icon-144x144.png" />
+    <link rel="apple-touch-icon" sizes="60x60" href="{{ site.url }}/assets/img/icons/apple-touch-icon-60x60.png" />
+    <link rel="apple-touch-icon" sizes="120x120" href="{{ site.url }}/assets/img/icons/apple-touch-icon-120x120.png" />
+    <link rel="apple-touch-icon" sizes="76x76" href="{{ site.url }}/assets/img/icons/apple-touch-icon-76x76.png" />
+    <link rel="apple-touch-icon" sizes="152x152" href="{{ site.url }}/assets/img/icons/apple-touch-icon-152x152.png" />
 
     <!-- Windows 8 Tile Icons -->
     <meta name="application-name" content="{{ site.name }}">
@@ -83,9 +83,9 @@
     <!-- Fonts -->
     <link href="https://fonts.googleapis.com/css?family=Titillium+Web:300,400,700" rel="stylesheet">
 
-    <link rel="stylesheet" href="{{ 'assets/css/styles.css' | prepend: site.baseurl | prepend: site.url}}">
+    <link rel="stylesheet" href="{{ 'assets/css/styles.css' | prepend: site.url}}">
     <link rel="canonical" href="{{ url }}">
-    <link rel="alternate" type="application/rss+xml" title="{{ site.title }}" href="{{ 'feed.xml' | prepend: site.baseurl | prepend: site.url }}" />
+    <link rel="alternate" type="application/rss+xml" title="{{ site.title }}" href="{{ 'feed.xml' | prepend: site.url }}" />
 
     <!-- Include extra styles -->
     {% include extra-css.html %}

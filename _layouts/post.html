@@ -22,7 +22,7 @@
                 <p class="post-subtitle">{{ page.subtitle }}</p>
 
                 {% if page.image and paginator.activated == nil %}
-                    <img src="{{ site.url }}{{ site.baseurl}}{{ page.image }}" alt="Featured image" class="post-cover">
+                    <img src="{{ site.url }}/{{ page.image }}" alt="Featured image" class="post-cover">
                 {% endif %}
 
                 {% include pagination-post.html progressBar=true %}
@@ -42,13 +42,13 @@
                         {% assign shuffled_array = next_posts | shuffle %}
                         {% for post in shuffled_array limit:3 %}
                             <li>
-                                <a href="{{ post.url | prepend: site.baseurl | prepend: site.url }}">
+                                <a href="{{ post.url | prepend: site.url }}">
                                     {% if post.optimized_image %}
-                                        <img src="{{ post.optimized_image | prepend: site.baseurl | prepend: site.url}}">
+                                        <img src="{{ post.optimized_image | prepend: site.url}}">
                                     {% elsif post.image %}
-                                        <img src="{{ post.image | prepend: site.baseurl | prepend: site.url}}">
+                                        <img src="{{ post.image | prepend: site.url}}">
                                     {% else %}
-                                        <img src="{{ site.baseurl}}assets/img/off.jpg">
+                                        <img src="{{ site.url}}/assets/img/off.jpg">
                                     {% endif %}
                                     <h3>{{ post.title }}</h3>
                                 </a>

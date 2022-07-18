@@ -17,7 +17,7 @@ layout: compress
                 window.netlifyIdentity.on("init", function(user) {
                     if (!user) {
                         window.netlifyIdentity.on("login", function() {
-                            document.location.href = "{{ site.url }}{{ site.baseurl }}admin/";
+                            document.location.href = "{{ site.url }}/admin/";
                         });
                     }
                 });

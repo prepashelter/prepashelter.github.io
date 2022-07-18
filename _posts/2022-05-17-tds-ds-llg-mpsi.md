@@ -4,7 +4,7 @@ layout: post
 title: Travaux dirigés et devoirs surveillés de MPSI/MP2I LLG
 subtitle: Tous disponibles sous format PDF
 image: img/llg.png
-category: tds_ds
+category: tds
 tags:
   - Travaux dirigés
   - TDs

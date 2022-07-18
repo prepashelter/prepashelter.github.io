@@ -15,14 +15,14 @@
         {% assign shuffled_array = next_posts | shuffle %}
         {% assign recommendation = shuffled_array.first %}
     {% endif %}
-    <a href="{{ site.baseurl }} {{ recommendation.url }}" class="post-preview">
+    <a href="{{ site.url }}/{{ recommendation.url }}" class="post-preview">
         <div class="image">
             {% if recommendation.optimized_image %}
-                <img src="{{ site.url }}{{ site.baseurl }}{{ recommendation.url }}">
+                <img src="{{ site.url }}/{{ recommendation.url }}">
             {% elsif recommendation.image %}
-                <img src="{{ site.url }}{{ site.baseurl }}{{ recommendation.image }}">
+                <img src="{{ site.url }}/{{ recommendation.image }}">
             {% else %}
-                <img src="{{ site.url }}{{ site.baseurl }}assets/img/off.jpg">
+                <img src="{{ site.url }}/assets/img/off.jpg">
             {% endif %}
         </div>
         <h3 class="title">{{ recommendation.title }}</h3>

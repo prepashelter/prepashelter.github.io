@@ -89,6 +89,6 @@ new Vue({
 
 {% else %}
 
-<script>window.location = "{% if site.url == '' and site.baseurl == '' %}{% else %}{{ site.url }}{{ site.baseurl }}{% endif %}";</script>
+<script>window.location = "{% if site.url == '' %}{% else %}{{ site.url }}{% endif %}";</script>
 
 {% endif %}
