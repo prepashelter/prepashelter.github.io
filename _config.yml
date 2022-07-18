@@ -25,7 +25,7 @@ menu:
   - title: Sujets d'oraux
     url: category/oraux
   - title: Travaux dirigés
-    url: category/tds_ds
+    url: category/tds
   - title: Outils divers
     url: category/outils
   - title: Contact

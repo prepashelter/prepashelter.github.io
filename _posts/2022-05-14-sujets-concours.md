@@ -24,6 +24,7 @@ tags:
   - Anglais
   - Francais
   - IPT
+  - 2022
   - Prépa Shelter
   - Prépa
 paginate: true

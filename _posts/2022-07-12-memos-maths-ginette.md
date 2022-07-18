@@ -13,6 +13,7 @@ tags:
   - Maths
   - Mathématiques
   - Spé
+  - 2022
   - Prepa Shelter
   - Prepa
 paginate: true
@@ -21,20 +22,20 @@ paginate: true
 ## Liste des polys donnés à Ginette 
 
 
-- [Mémo FONCTIONS DE LA VARIABLE REELLE](/assets/documents/annales/foncunevarmemo.pdf){:target="_blank"}
-- [CALCUL APPROCHE D’UNE INTEGRALE](assets/documents/annales/integraleapprochee.pdf){:target="_blank"}
-- [Mémo DEVELOPPEMENTS LIMITES](/assets/documents/annales/devtslimitesmemo.pdf){:target="_blank"}
-- [Primitives usuelles](/assets/documents/annales/Primitives usuelles){:target="_blank"}
-- [Techniques de calculs de primitives de quelques classes de fonctions](/assets/documents/annales/integraleseleves.pdf){:target="_blank"}
-- [Trigonométrie hyperbolique](/assets/documents/annales/trighypememo.pdf){:target="_blank"}
-- [Trigonométrie](/assets/documents/annales/trigomemo.pdf){:target="_blank"}
-- [Mémo SUITES](/assets/documents/annales/suitesmemo.pdf){:target="_blank"}
-- [Mémo ALGEBRE GENERALE](/assets/documents/annales/algebregenmemo.pdf){:target="_blank"}
-- [Mémo MATRICES](/assets/documents/annales/matricesmemo.pdf){:target="_blank"}
-- [Mémo DETERMINANTS](/assets/documents/annales/determinantsmemo.pdf){:target="_blank"}
-- [Récurrences linéaires d’ordre 2](/assets/documents/annales/reclin2.pdf){:target="_blank"}
-- [Poly FONCTIONS VECTORIELLES](/assets/documents/annales/fonctvecteleves.pdf){:target="_blank"}
-- [Développements en série entière usuels](/assets/documents/annales/dsememo.pdf){:target="_blank"}
-- [Mémo EQUATIONS DIFFERENTIELLES](/assets/documents/annales/equadiffmemo.pdf){:target="_blank"}
+- [Mémo FONCTIONS DE LA VARIABLE REELLE](/assets/documents/outils/memos/foncunevarmemo.pdf){:target="_blank"}
+- [CALCUL APPROCHE D’UNE INTEGRALE](assets/documents/outils/memos/integraleapprochee.pdf){:target="_blank"}
+- [Mémo DEVELOPPEMENTS LIMITES](/assets/documents/outils/memos/devtslimitesmemo.pdf){:target="_blank"}
+- [Primitives usuelles](/assets/documents/outils/memos/Primitives usuelles){:target="_blank"}
+- [Techniques de calculs de primitives de quelques classes de fonctions](/assets/documents/outils/memos/integraleseleves.pdf){:target="_blank"}
+- [Trigonométrie hyperbolique](/assets/documents/outils/memos/trighypememo.pdf){:target="_blank"}
+- [Trigonométrie](/assets/documents/outils/memos/trigomemo.pdf){:target="_blank"}
+- [Mémo SUITES](/assets/documents/outils/memos/suitesmemo.pdf){:target="_blank"}
+- [Mémo ALGEBRE GENERALE](/assets/documents/outils/memos/algebregenmemo.pdf){:target="_blank"}
+- [Mémo MATRICES](/assets/documents/outils/memos/matricesmemo.pdf){:target="_blank"}
+- [Mémo DETERMINANTS](/assets/documents/outils/memos/determinantsmemo.pdf){:target="_blank"}
+- [Récurrences linéaires d’ordre 2](/assets/documents/outils/memos/reclin2.pdf){:target="_blank"}
+- [Poly FONCTIONS VECTORIELLES](/assets/documents/outils/memos/fonctvecteleves.pdf){:target="_blank"}
+- [Développements en série entière usuels](/assets/documents/outils/memos/dsememo.pdf){:target="_blank"}
+- [Mémo EQUATIONS DIFFERENTIELLES](/assets/documents/outils/memos/equadiffmemo.pdf){:target="_blank"}
 
 Si vous avez une question quelconque, n'hésitez pas à me contacter par [mail](https://www.prepashelter.com/contact/).

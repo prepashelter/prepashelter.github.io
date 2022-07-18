@@ -18,6 +18,7 @@ tags:
   - Révisions
   - Concours
   - Physique
+  - 2022
   - Prépa Shelter
   - Prépa
 paginate: true

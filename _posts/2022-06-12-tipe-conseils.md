@@ -9,6 +9,7 @@ tags:
   - Tipe
   - Conseils
   - Questions
+  - 2022
   - Prépa Shelter
   - Prépa
 paginate: true
