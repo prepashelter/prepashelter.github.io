@@ -29,8 +29,8 @@ Site dédié aux enseignements des mathématiques en classe préparatoire MPSI/M
 
 ## Physique
 
-Site dédié aux enseignements de physique-chimie en classe préparatoire MPSI/MP2I au lycée Louis-Le
+Site dédié aux enseignements de physique-chimie en classe préparatoire MPSI/MP2I au lycée Louis-Le-Grand :
 
-[ttp://mpsi2llg.free.fr/mpsi2-physique.html#orgfa60a60](http://mpsi2llg.free.fr/mpsi2-physique.html#orgfa60a60)
+[http://mpsi2llg.free.fr/mpsi2-physique.html#orgfa60a60](http://mpsi2llg.free.fr/mpsi2-physique.html#orgfa60a60)
 
 Si vous avez une question quelconque, n'hésitez pas à me contacter par [mail](https://www.prepashelter.com/contact/).
