@@ -1,10 +1,10 @@
 ---
-date: 2022-07-15 00:00:00
+date: 2022-07-16 00:00:00
 layout: post
 title: Besoin d'aide en prépa ?
 subtitle: Le serveur Discord est là pour vous !
 image: img/ecrits.jpeg
-category: annales
+category: outils
 tags:
   - Discord
   - Aide

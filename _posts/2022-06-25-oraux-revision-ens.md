@@ -1,7 +1,7 @@
 ---
 date: 2022-06-25 00:00:00
 layout: post
-title: Poly Ginette MP* 174 oraux classiques de maths - Concours ENS 
+title: Poly Ginette MP* 174 oraux classiques de maths - Concours ENS (Payant)
 subtitle: Des exos qui retombent chaque année
 image: img/ens.jpg
 category: oraux

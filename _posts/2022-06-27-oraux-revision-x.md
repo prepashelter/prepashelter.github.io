@@ -1,7 +1,7 @@
 ---
 date: 2022-06-27 00:00:00
 layout: post
-title: Poly Ginette MP* 133 oraux classiques de maths - Concours Polytechnique
+title: Poly Ginette MP* 133 oraux classiques de maths - Concours Polytechnique (Payant)
 subtitle: Des exos qui retombent chaque année
 image: img/x.jpg
 category: oraux

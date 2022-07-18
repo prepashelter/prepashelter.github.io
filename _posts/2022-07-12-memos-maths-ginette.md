@@ -1,7 +1,7 @@
 ---
 date: 2022-07-12 00:00:00
 layout: post
-title: Fiches de maths - Ginette
+title: Fiches de maths - Ginette MP
 subtitle: Fiches contenant l'essentiel du cours de spé de mathématiques
 image: img/ecrits.jpeg
 category: outils

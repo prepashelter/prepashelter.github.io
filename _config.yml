@@ -1,7 +1,7 @@
 # Site Settings
-name: Prepa Shelter
-title: Prepa Shelter
-description: Site officiel de Prepa Shelter
+name: Prépa Shelter
+title: Prépa Shelter
+description: Site officiel de Prépa Shelter
 tags:
   - Prépa
   - Concours
@@ -25,7 +25,7 @@ menu:
   - title: Sujets d'oraux
     url: category/oraux
   - title: Travaux dirigés
-    url: category/tds
+    url: category/tds_ds
   - title: Outils divers
     url: category/outils
   - title: Contact

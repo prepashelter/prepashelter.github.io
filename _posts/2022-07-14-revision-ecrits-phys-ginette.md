@@ -29,11 +29,11 @@ Poly de Ginette pour se préparer aux épreuves de physique-chimie de CCP, Polyt
 
 Vous pouvez télécharger les sujets gratuitement ci-dessous.
 
-[Sujets physique-chimie](/assets/documents/annales/sujets-physique-chimie.pdf)
+[Sujets physique-chimie](/assets/documents/annales/sujets-physique-chimie.pdf){:target="_blank"}
 
 
 # Corrigés 
 
 Vous pouvez télécharger les corrigés gratuitement ci-dessous.
 
-[Corrigés annales mathématiques](/assets/documents/annales/annales-corrigees-physique-chimie.pdf)
+[Corrigés annales mathématiques](/assets/documents/annales/annales-corrigees-physique-chimie.pdf){:target="_blank"}

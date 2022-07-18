@@ -57,4 +57,4 @@ Les énoncés sont disponibles sur [Doc Solus](https://www.doc-solus.fr/).
 
 Vous pouvez télécharger les corrigés gratuitement ci-dessous.
 
-[Corrigés annales mathématiques](/assets/documents/annales/annales-corrigees-mathematiques.pdf)
+[Corrigés annales mathématiques](/assets/documents/annales/annales-corrigees-mathematiques.pdf){:target="_blank"}

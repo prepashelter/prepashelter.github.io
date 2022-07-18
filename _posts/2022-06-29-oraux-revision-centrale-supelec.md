@@ -1,7 +1,7 @@
 ---
 date: 2022-06-29 00:00:00
 layout: post
-title: Poly Ginette MP* 104 oraux classiques de maths - Concours CentraleSupélec
+title: Poly Ginette MP* 104 oraux classiques de maths - Concours CentraleSupélec (Payant)
 subtitle: Des exos qui retombent chaque année
 image: img/centrale-supelec.jpg
 category: oraux

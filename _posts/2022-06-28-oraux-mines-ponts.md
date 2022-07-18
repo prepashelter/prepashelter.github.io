@@ -1,7 +1,7 @@
 ---
 date: 2022-06-25 00:00:00
 layout: post
-title: Poly Ginette MP* 245 oraux classiques de maths - Concours Mines-Ponts
+title: Poly Ginette MP* 245 oraux classiques de maths - Concours Mines-Ponts (Payant)
 subtitle: Des exos qui retombent chaque année
 image: img/mines-ponts.png
 category: oraux

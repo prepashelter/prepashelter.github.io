@@ -14,7 +14,7 @@ Je m'appelle Nicolas et je suis un ancien élève du lycée Sainte-Geneviève de
 
 L'objectif de Prépa Shelter est d'accompagner les étudiants en prépa visant des grandes écoles d'ingénieur à travers de nombreux documents et conseils de méthodologie. 
 
-Vous trouverez sur Prépa Shelter :
+Vous trouverez sur ce site :
 
 - Des annales de concours corrigées par des professeurs de Ginette pour vous préparer aux écrits, 
 - Des offres de cours particuliers pour vous aider à progresser en mathématiques et en physique,

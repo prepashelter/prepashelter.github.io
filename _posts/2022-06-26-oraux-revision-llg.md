@@ -1,7 +1,7 @@
 ---
 date: 2022-06-26 00:00:00
 layout: post
-title: Poly LLG MP* 107 oraux classiques de maths - Tous concours
+title: Poly LLG MP* 107 oraux classiques de maths - Tous concours (Payant)
 subtitle: Des exos qui retombent chaque année
 image: img/llg.png
 category: oraux
