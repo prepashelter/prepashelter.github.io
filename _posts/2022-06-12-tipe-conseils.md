@@ -1,7 +1,5 @@
-﻿TIPE
-
 ---
-date: 2022-07-18 00:00:00
+date: 2022-06-12 00:00:00
 layout: post
 title: Conseils portant sur l'épreuve des TIPE
 subtitle: Par Omar Bennouna, ancien élève de LLG
