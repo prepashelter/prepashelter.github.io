@@ -67,8 +67,7 @@ Tous les sujets sont mis ici dès la fin de chaque épreuve: [Sujets CCS 2020](h
 ### Sujets Mines-Ponts MP
 
 *   [Mathématiques 1](/assets/documents/annales/concours2020/Math1.pdf) ([Post](http://www.les-mathematiques.net/phorum/read.php?3,2048412)
-*   [Physique 1](/assets/documents/annales/concours2020/Physique1Bis.pdf) 
-*   Autre version de haute qualité [**ici**](/assets/documents/annales/concours2020/Physique1HQ.pdf)
+*   [Physique 1](/assets/documents/annales/concours2020/Physique1Bis.pdf) - Haute qualité [**ici**](/assets/documents/annales/concours2020/Physique1HQ.pdf)
 *   [Mathématiques 2](/assets/documents/annales/concours2020/Math2.pdf)
 *   [Physique 2](/assets/documents/annales/concours2020/Physique2.pdf)
 *   [IPT](/assets/documents/annales/concours2020/IPT.pdf)
@@ -95,11 +94,11 @@ Tous les sujets sont mis ici dès la fin de chaque épreuve: [Sujets CCS 2020](h
 *   [Français](/assets/documents/annales/concours2021/FRCCINP.pdf)
 *   [Physique](/assets/documents/annales/concours2021/PhyssCCINPMPbis.pdf) 
 *   LVA
-  *   [Anglais](/assets/documents/annales/concours2021/LVAAnglais.pdf)
-  *   [Arabe](/assets/documents/annales/concours2021/LVAArabe.pdf)
-  *   [Allemand](/assets/documents/annales/concours2021/LVAAllemand.pdf)
+    *   [Anglais](/assets/documents/annales/concours2021/LVAAnglais.pdf)
+    *   [Arabe](/assets/documents/annales/concours2021/LVAArabe.pdf)
+    *   [Allemand](/assets/documents/annales/concours2021/LVAAllemand.pdf)
 *   LVB
-  *   [Anglais - Espagnol](/assets/documents/annales/concours2021/LVBAnglais.pdf)
+    *   [Anglais - Espagnol](/assets/documents/annales/concours2021/LVBAnglais.pdf)
 *   [SI](/assets/documents/annales/concours2021/SICCINPMP.pdf)
 
 ### Sujets Centrale-Supéléc MP
@@ -112,7 +111,8 @@ Les sujets Centrale Supélec sont disponibles [**ici**](https://www.concours-cen
 *   [Mathématiques 2](/assets/documents/annales/concours2021/Math2MinesMP.pdf) 
 *   [Français](/assets/documents/annales/concours2021/MinesFRbis.pdf)
 *   [SI](/assets/documents/annales/concours2021/SIMPMines.pdf)
-*   Informatique option [version 1](/assets/documents/annales/concours2021/InfoMinesMPbis.pdf) | [version 2](/assets/documents/annales/concours2021/InfoMinesMP.pdf)
+*   Informatique option [version 1](/assets/documents/annales/concours2021/InfoMinesMPbis.pdf)
+*   Informatique option [version 2](/assets/documents/annales/concours2021/InfoMinesMP.pdf)
 *   [Physique 1](/assets/documents/annales/concours2021/Phys1MinesMP.pdf)
 *   [Langues vivantes](/assets/documents/annales/concours2021/LVMines.pdf)
 *   [Chimie](/assets/documents/annales/concours2021/ChimieMinesMP.pdf)
@@ -141,16 +141,16 @@ Les sujets Centrale Supélec sont disponibles [**ici**](https://www.concours-cen
 
 ### Sujets CCINP MP
     
-*   [Mathématiques 1](/assets/documents/annales/concours2022/Math1CCINPMP.pdf) | [Version latex](http://www.marocprepa.com/2022/ccp-mp-m1-2022.pdf)
+*   [Mathématiques 1](/assets/documents/annales/concours2022/Math1CCINPMP.pdf) - [Version latex](http://www.marocprepa.com/2022/ccp-mp-m1-2022.pdf)
 *   [Physique-Chimie](/assets/documents/annales/concours2022/PhysCCINPMP.pdf)
-*   [Mathématiques 2](/assets/documents/annales/concours2022/Math2CCINPMP.pdf) | [Version latex](http://www.marocprepa.com/2022/ccp-mp-m2-2022.pdf)
+*   [Mathématiques 2](/assets/documents/annales/concours2022/Math2CCINPMP.pdf) - [Version latex](http://www.marocprepa.com/2022/ccp-mp-m2-2022.pdf)
 *   [Français](/assets/documents/annales/concours2022/CCINPFR.pdf)
 *   [Physique](/assets/documents/annales/concours2022/PhysiqCCINPMP.pdf)
 *   LVA
-  *   [Anglais](/assets/documents/annales/concours2022/LVAAnglaisCCINP.pdf)
-  *   [Allemand - Arabe](/assets/documents/annales/concours2022/AllemandArabeCCINP.pdf)
+    *   [Anglais](/assets/documents/annales/concours2022/LVAAnglaisCCINP.pdf)
+    *   [Allemand - Arabe](/assets/documents/annales/concours2022/AllemandArabeCCINP.pdf)
 *   LVB
-  *   [Anglais - Espagnol](/assets/documents/annales/concours2022/AngEspCCINP.pdf)
+    *   [Anglais - Espagnol](/assets/documents/annales/concours2022/AngEspCCINP.pdf)
 *   [SI](/assets/documents/annales/concours2022/SICCINPMP.pdf)
 *   [Informatique](/assets/documents/annales/concours2022/InfoCCINPMP.pdf)
 
@@ -160,11 +160,11 @@ Les sujets Centrale Supélec sont disponibles [**ici**](https://www.concours-cen
 
 ### Sujets Mines-Ponts MP
 
-*   [Mathématiques 1](/assets/documents/annales/concours2022/Math1MinesMP.pdf) ([divers compléments au sujet](https://les-mathematiques.net/vanilla/index.php?p=/discussion/2329834/maths-mines-a-mp)) | ([un corrigé](/assets/documents/annales/concours2022/Corriges/Math1MinesMPC.pdf))
-*   [Mathématiques 2](/assets/documents/annales/concours2022/Math2MinesMP.pdf) | ([un corrigé](/assets/documents/annales/concours2022/Corriges/Math2MinesMPC.pdf))
+*   [Mathématiques 1](/assets/documents/annales/concours2022/Math1MinesMP.pdf) ([divers compléments au sujet](https://les-mathematiques.net/vanilla/index.php?p=/discussion/2329834/maths-mines-a-mp)) + ([un corrigé](/assets/documents/annales/concours2022/Corriges/Math1MinesMPC.pdf))
+*   [Mathématiques 2](/assets/documents/annales/concours2022/Math2MinesMP.pdf) + ([un corrigé](/assets/documents/annales/concours2022/Corriges/Math2MinesMPC.pdf))
 *   [Français](/assets/documents/annales/concours2022/FrMines.pdf)
-*   SI [version 1](/assets/documents/annales/concours2022/SIMinesMPbis2.pdf) | [version 2](/assets/documents/annales/concours2022/SIMinesMP.pdf)
-*   Informatique option [version 1](/assets/documents/annales/concours2022/InfoMinesMP.pdf) | [version 2](/assets/documents/annales/concours2022/InfoMinesMPbis.pdf)
+*   SI [version 1](/assets/documents/annales/concours2022/SIMinesMPbis2.pdf) - [version 2](/assets/documents/annales/concours2022/SIMinesMP.pdf)
+*   Informatique option [version 1](/assets/documents/annales/concours2022/InfoMinesMP.pdf) - [version 2](/assets/documents/annales/concours2022/InfoMinesMPbis.pdf)
 *   [Physique 1](/assets/documents/annales/concours2022/Physique1MinesMP.pdf)
 *   [Langues vivantes](/assets/documents/annales/concours2022/MinesLV.pdf)
 *   [Chimie](/assets/documents/annales/concours2022/ChimieMinesMP.pdf)
@@ -173,9 +173,9 @@ Les sujets Centrale Supélec sont disponibles [**ici**](https://www.concours-cen
 
 ### Sujets X-ENS MP 
     
-*   [Mathématiques A MP 2022 - XLCR](/assets/documents/annales/concours2022/MathA2022.pdf) | [Version latex](/assets/documents/annales/concours2022/MathA2022L.pdf) | [Un corrigé](/assets/documents/annales/concours2022/Corriges/MathA2022C.pdf)
+*   [Mathématiques A MP 2022 - XLCR](/assets/documents/annales/concours2022/MathA2022.pdf) - [Version latex](/assets/documents/annales/concours2022/MathA2022L.pdf) + [Un corrigé](/assets/documents/annales/concours2022/Corriges/MathA2022C.pdf)
 *   [Français](/assets/documents/annales/concours2022/FrancaisX.pdf)
-*   [Mathématiques B MP 2022 - X](/assets/documents/annales/concours2022/MathB2022.pdf) | [Version latex](/assets/documents/annales/concours2022/MathB2022L.pdf)
+*   [Mathématiques B MP 2022 - X](/assets/documents/annales/concours2022/MathB2022.pdf) - [Version latex](/assets/documents/annales/concours2022/MathB2022L.pdf)
 *   [Physique-SI MP 2022 - X](/assets/documents/annales/concours2022/PhysSI2022.pdf)
 *   [Informatique A MP 2022 - XULCR](/assets/documents/annales/concours2022/InfoA2022.pdf)
 *   [Physique MP 2022 - XULCR](/assets/documents/annales/concours2022/PhysXMP2022.pdf)
