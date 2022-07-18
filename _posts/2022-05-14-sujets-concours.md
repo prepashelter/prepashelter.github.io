@@ -188,3 +188,5 @@ Les sujets Centrale Supélec sont disponibles [**ici**](https://www.concours-cen
 *   [Informatique B MP - XELCR](/assets/documents/annales/concours2022/InfoB2022.pdf){:target="_blank"}
 *   [Mathématiques C MP - ULCR](/assets/documents/annales/concours2022/MathC2022.pdf){:target="_blank"}
 *   [Info-Mathématiques MP - ULCR](/assets/documents/annales/concours2022/MathInfo2022.pdf){:target="_blank"}
+
+Si vous avez une question quelconque, n'hésitez pas à me contacter par [mail](https://www.prepashelter.com/contact/).

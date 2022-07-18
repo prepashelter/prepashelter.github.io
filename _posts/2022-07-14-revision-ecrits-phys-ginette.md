@@ -37,3 +37,5 @@ Vous pouvez télécharger les sujets gratuitement ci-dessous.
 Vous pouvez télécharger les corrigés gratuitement ci-dessous.
 
 [Corrigés annales mathématiques](/assets/documents/annales/annales-corrigees-physique-chimie.pdf){:target="_blank"}
+
+Si vous avez une question quelconque, n'hésitez pas à me contacter par [mail](https://www.prepashelter.com/contact/).

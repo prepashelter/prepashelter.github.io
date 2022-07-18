@@ -36,3 +36,5 @@ paginate: true
 - [Poly FONCTIONS VECTORIELLES](/assets/documents/annales/fonctvecteleves.pdf){:target="_blank"}
 - [Développements en série entière usuels](/assets/documents/annales/dsememo.pdf){:target="_blank"}
 - [Mémo EQUATIONS DIFFERENTIELLES](/assets/documents/annales/equadiffmemo.pdf){:target="_blank"}
+
+Si vous avez une question quelconque, n'hésitez pas à me contacter par [mail](https://www.prepashelter.com/contact/).

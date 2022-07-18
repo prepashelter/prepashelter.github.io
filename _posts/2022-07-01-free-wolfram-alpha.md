@@ -35,3 +35,4 @@ Liste de miroirs
 - [http://Wolfree.gitlab.io](http://Wolfree.gitlab.io)
 - [http://Wolfree.pages.dev](http://Wolfree.pages.dev)
 
+Si vous avez une question quelconque, n'hésitez pas à me contacter par [mail](https://www.prepashelter.com/contact/).
