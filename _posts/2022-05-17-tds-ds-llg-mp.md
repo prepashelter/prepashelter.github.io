@@ -16,7 +16,6 @@ tags:
   - Physique
   - MP*
   - Spé
-  - 2022
   - Prépa Shelter
   - Prépa
 paginate: true

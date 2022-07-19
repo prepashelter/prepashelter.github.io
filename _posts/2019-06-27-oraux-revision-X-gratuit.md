@@ -14,7 +14,6 @@ tags:
   - Concours
   - Maths
   - Mathématiques
-  - 2022
   - Prépa Shelter
   - Prépa
 paginate: true

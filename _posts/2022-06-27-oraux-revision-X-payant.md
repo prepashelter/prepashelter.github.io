@@ -15,7 +15,6 @@ tags:
   - Maths
   - Mathématiques
   - Prépa Shelter
-  - 2022
   - Prépa
 paginate: true
 ---

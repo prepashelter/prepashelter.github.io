@@ -13,7 +13,6 @@ tags:
   - Spé
   - Maths
   - Mathématiques
-  - 2022
   - Prépa Shelter
   - Prépa
 paginate: true
