@@ -45,6 +45,7 @@ two_columns_layout: true
 
 
 # Advanced Settings
+baseurl: ""
 url: "https://prepashelter.com" # the base hostname & protocol for your site le / est important
 language: "en"
 categories_folder: category
