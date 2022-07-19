@@ -4,7 +4,7 @@ layout: post
 title:  Accès gratuit à Wolfram Alpha Pro
 subtitle: Débloquez des solutions étape par étape gratuitement
 image: img/wolfram.jpg
-category: annales
+category: outils
 tags:
   - Wolfram Alpha
   - Corrigés

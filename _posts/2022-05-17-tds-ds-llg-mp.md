@@ -61,7 +61,7 @@ paginate: true
 *   TD6: [Ondes éléctomagnétiques](/assets/documents/tds/MP4Phys/TD/TD6ONDESELECTROMAG.pdf){:target="_blank"}
 *   TD7: [Equilibres chimiques et thermochimie](/assets/documents/tds/MP4Phys/TD/TD7THERMO.pdf){:target="_blank"} - [corrigé](/assets/documents/tds/MP4Phys/TD/corrigethermochimie.pdf){:target="_blank"}
 *   TD8: [Mécanique](/assets/documents/tds/MP4Phys/TD/TD8MECA.pdf){:target="_blank"}
-*   TD9: [Thermodynamique (révision MPSI){:target="_blank"}](/assets/documents/tds/MP4Phys/TD/TD9Thermosup.pdf){:target="_blank"}
+*   TD9: [Thermodynamique (révision MPSI)](/assets/documents/tds/MP4Phys/TD/TD9Thermosup.pdf){:target="_blank"}
 *   TD10: [Transferts thermiques](/assets/documents/tds/MP4Phys/TD/TD10Transfert.pdf){:target="_blank"}
 *   TD11: [Mécanique quantique](/assets/documents/tds/MP4Phys/TD/TD11mecaq.pdf){:target="_blank"}
 *   TD12: [Oxydo-réduction](/assets/documents/tds/MP4Phys/TD/TD12Redox.pdf){:target="_blank"}

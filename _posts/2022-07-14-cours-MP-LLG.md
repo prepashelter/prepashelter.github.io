@@ -3,7 +3,7 @@ date: 2022-07-14 00:00:00
 layout: post
 title: Cours MP* LLG
 subtitle: Disponible en PDF
-image: img/livre.png
+image: img/livre.jpg
 category: outils
 tags:
   - LLG
