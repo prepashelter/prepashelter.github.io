@@ -7,8 +7,8 @@ image: img/ecrits.jpeg
 category: annales
 tags:
   - CCP
-  - Centrale-Supélec
-  - Mines-Ponts
+  - CentraleSupélec
+  - MinesPonts
   - Polytechnique
   - Corrigés
   - Annales

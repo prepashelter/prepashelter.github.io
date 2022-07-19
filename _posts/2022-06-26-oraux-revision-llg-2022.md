@@ -6,11 +6,11 @@ subtitle: Des exos qui retombent chaque année
 image: img/llg.png
 category: oraux
 tags:
-  - Centrale-Supélec
-  - Mines-Ponts
+  - CentraleSupélec
+  - MinesPonts
   - Polytechnique
   - ENS
-  - X-ENS
+  - XENS
   - Annales
   - Sujets
   - LLG

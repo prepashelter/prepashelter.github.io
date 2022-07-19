@@ -6,7 +6,7 @@ subtitle: Des exos qui retombent chaque année
 image: img/centrale-supelec.jpg
 category: oraux
 tags:
-  - Centrale-Supélec
+  - CentraleSupélec
   - Annales
   - Sujets
   - Ginette

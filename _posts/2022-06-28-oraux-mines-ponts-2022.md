@@ -6,7 +6,7 @@ subtitle: Des exos qui retombent chaque année
 image: img/mines-ponts.png
 category: oraux
 tags:
-  - Mines-Ponts
+  - MinesPonts
   - Annales
   - Sujets
   - Ginette
