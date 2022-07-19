@@ -15,7 +15,6 @@ Je m'appelle Nicolas et je suis un ancien élève du lycée Sainte-Geneviève de
 L'objectif de Prépa Shelter est d'accompagner les étudiants en prépa visant des grandes écoles d'ingénieur à travers de nombreux documents et conseils de méthodologie. 
 
 Vous trouverez sur ce site :
-
 - Des annales de concours corrigées par des professeurs de Ginette pour vous préparer aux écrits, 
 - Des offres de cours particuliers pour vous aider à progresser en mathématiques et en physique,
 - Des sujets classiques d'oraux qui retombent chaque année aux concours X-ENS, Centrale-Supélec et Mines-Ponts (donnés aux élèves de Ginette, LLG, H4 et St-Louis) pour vous préparer aux oraux,
@@ -24,4 +23,4 @@ Vous trouverez sur ce site :
 
 Tous les paiements sur mon site sont sécurisés avec [Splice](https://www.stripe.com) et les commandes sont envoyées par mail sous un délai d'un jour.
 
-Si vous as une question quelconque, n'hésitez pas à me contacter par [mail](https://www.prepashelter.com/contact/).
+Si vous avez une question quelconque, n'hésitez pas à me contacter par [mail](https://www.prepashelter.com/contact/) ou sur [discord](https://discord.gg/TGQSrnCxK2).
