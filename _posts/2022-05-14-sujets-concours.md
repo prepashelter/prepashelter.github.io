@@ -128,10 +128,10 @@ Les sujets Centrale Supélec sont disponibles [**ici**](https://www.concours-cen
 *   [Informatique A MP 2021 - XULCR](/assets/documents/annales/concours2021/InfoMP.pdf){:target="_blank"}
 *   [Physique MP 2021 - XULCR](/assets/documents/annales/concours2021/PhysMP.pdf){:target="_blank"}
 *   Langues vivantes
-  *   [Arabe](/assets/documents/annales/concours2021/ArabeX.pdf){:target="_blank"}
-  *   [Anglais](/assets/documents/annales/concours2021/AnglaisX.pdf){:target="_blank"}
-  *   [Allemand](/assets/documents/annales/concours2021/AllemandX.pdf){:target="_blank"}
-  *   [Espagnol](/assets/documents/annales/concours2021/EspagnolX.pdf){:target="_blank"}
+    *   [Arabe](/assets/documents/annales/concours2021/ArabeX.pdf){:target="_blank"}
+    *   [Anglais](/assets/documents/annales/concours2021/AnglaisX.pdf){:target="_blank"}
+    *   [Allemand](/assets/documents/annales/concours2021/AllemandX.pdf){:target="_blank"}
+    *   [Espagnol](/assets/documents/annales/concours2021/EspagnolX.pdf){:target="_blank"}
 *   [Mathématiques D MP - U](/assets/documents/annales/concours2021/mathD.pdf){:target="_blank"}
 *   [Informatique B MP - XELCR](/assets/documents/annales/concours2021/InfoB.pdf){:target="_blank"}
 *   [Mathématiques C MP - ULCR](/assets/documents/annales/concours2021/MathC.pdf){:target="_blank"}
@@ -180,10 +180,10 @@ Les sujets Centrale Supélec sont disponibles [**ici**](https://www.concours-cen
 *   [Informatique A MP 2022 - XULCR](/assets/documents/annales/concours2022/InfoA2022.pdf){:target="_blank"}
 *   [Physique MP 2022 - XULCR](/assets/documents/annales/concours2022/PhysXMP2022.pdf){:target="_blank"}
 *   Langues vivantes 
-  *   [Arabe](/assets/documents/annales/concours2022/ArabeX2022.pdf){:target="_blank"}
-  *   [Anglais](/assets/documents/annales/concours2022/AnglaisX2022.pdf){:target="_blank"}
-  *   [Allemand](/assets/documents/annales/concours2022/AllemandX2022.pdf){:target="_blank"}
-  *   [Espagnol](/assets/documents/annales/concours2022/EspagnolX2022.pdf){:target="_blank"}
+    *   [Arabe](/assets/documents/annales/concours2022/ArabeX2022.pdf){:target="_blank"}
+    *   [Anglais](/assets/documents/annales/concours2022/AnglaisX2022.pdf){:target="_blank"}
+    *   [Allemand](/assets/documents/annales/concours2022/AllemandX2022.pdf){:target="_blank"}
+    *   [Espagnol](/assets/documents/annales/concours2022/EspagnolX2022.pdf){:target="_blank"}
 *   [Mathématiques D MP - U](/assets/documents/annales/concours2022/MathD2022.pdf){:target="_blank"}
 *   [Informatique B MP - XELCR](/assets/documents/annales/concours2022/InfoB2022.pdf){:target="_blank"}
 *   [Mathématiques C MP - ULCR](/assets/documents/annales/concours2022/MathC2022.pdf){:target="_blank"}

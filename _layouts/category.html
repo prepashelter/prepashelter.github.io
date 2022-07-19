@@ -14,17 +14,17 @@
                             <article class="box-item">
                                 <div class="box-body">
                                     {% if post.image %}
-                                        <a class="cover" href="{{site.url }}{{ post.url }}">
+                                        <a class="cover" href="{{ post.url | prepend: site.url }}">
                                             {% include loader.html %}
                                             {% if post.optimized_image %}
-                                                <img src="{{ site.url }}/assets/img/placeholder.png" width="100%" data-url="{{ site.url }}/{{ post.optimized_image }}" class="preload">
+                                                <img src="{{ site.url }}/assets/img/placeholder.png" width="100%" data-url="{{ post.optimized_image | prepend: site.url}}" class="preload">
                                                 <noscript>
-                                                    <img src="{{ site.url }}/{{ post.optimized_image }}" width="100%">
+                                                    <img src="{{ post.optimized_image | prepend: site.url }}" width="100%">
                                                 </noscript>
                                             {% elsif post.image %}
-                                                <img src="{{ site.url }}/assets/img/placeholder.png" width="100%" data-url="{{ site.url }}/{{ post.image }}" class="preload">
+                                                <img src="{{ site.url }}/assets/img/placeholder.png" width="100%" data-url="{{ post.image | prepend: site.url}}" class="preload">
                                                 <noscript>
-                                                    <img src="{{ site.url }}/{{ post.image }}" width="100%">
+                                                    <img src="{{ post.image  | prepend: site.url}}" width="100%">
                                                 </noscript>
                                             {% else %}
                                                 <img src="{{ site.url }}/assets/img/placeholder.png" width="100%" data-url="{{ site.url }}/assets/img/off.jpg" class="preload">
@@ -66,8 +66,3 @@
         {% include footer.html %}
     </body>
 </html>
-
-
-
-
-

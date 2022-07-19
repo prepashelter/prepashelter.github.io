@@ -7,7 +7,6 @@ image: img/ens.jpg
 category: oraux
 tags:
   - Polytechnique
-  - 2022
   - Annales
   - Sujets
   - Ginette
