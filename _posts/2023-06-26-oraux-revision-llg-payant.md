@@ -1,5 +1,5 @@
 ---
-date: 2022-06-26 00:00:00
+date: 2023-06-26 00:00:00
 layout: post
 title: Poly LLG MP* 107 oraux classiques de maths - Tous concours (Payant) 2022
 subtitle: Des exos qui retombent chaque année

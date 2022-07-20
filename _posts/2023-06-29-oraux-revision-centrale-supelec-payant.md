@@ -1,5 +1,5 @@
 ---
-date: 2022-06-29 00:00:00
+date: 2023-06-29 00:00:00
 layout: post
 title: Poly Ginette MP* 104 oraux classiques de maths - Concours CentraleSupélec (Payant) 2022
 subtitle: Des exos qui retombent chaque année
