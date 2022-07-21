@@ -10,7 +10,7 @@ menu: true
 
 ### Qui suis-je ?
 
-Je m'appelle Nicolas et je suis un ancien élève du lycée Sainte-Geneviève de Versailles. 
+Je m'appelle Nicolas et je suis un ancien élève de prépa. 
 
 L'objectif de Prépa Shelter est d'accompagner les étudiants en prépa visant des grandes écoles d'ingénieur à travers de nombreux documents et conseils de méthodologie. 
 
