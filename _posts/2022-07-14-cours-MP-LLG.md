@@ -18,6 +18,8 @@ tags:
 paginate: true
 ---
 
-Ce [livre](/assets/documents/outils/mp4.pdf){:target="_blank"} contient les chapitres de mathématiques de MP* inspirés de notes de cours de la classe MP*4 dus lycée Louis-le-Grand. 
+Ce [livre](/assets/documents/outils/mp4.pdf){:target="_blank"} contient les chapitres de mathématiques de MP* inspirés de notes de cours de la classe MP*4 du lycée Louis-le-Grand. 
+
+Source : cpge paradise
 
 Si vous avez une question quelconque, n'hésitez pas à me contacter par [mail](https://www.prepashelter.com/contact/).

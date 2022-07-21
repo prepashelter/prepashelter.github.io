@@ -20,7 +20,6 @@ paginate: true
 
 ## Liste des polys donnés à Ginette 
 
-
 - [Mémo FONCTIONS DE LA VARIABLE REELLE](/assets/documents/outils/memos/foncunevarmemo.pdf){:target="_blank"}
 - [CALCUL APPROCHE D’UNE INTEGRALE](assets/documents/outils/memos/integraleapprochee.pdf){:target="_blank"}
 - [Mémo DEVELOPPEMENTS LIMITES](/assets/documents/outils/memos/devtslimitesmemo.pdf){:target="_blank"}

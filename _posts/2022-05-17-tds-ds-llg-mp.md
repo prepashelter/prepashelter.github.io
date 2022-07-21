@@ -66,3 +66,7 @@ paginate: true
 *   TD11: [Mécanique quantique](/assets/documents/tds/MP4Phys/TD/TD11mecaq.pdf){:target="_blank"}
 *   TD12: [Oxydo-réduction](/assets/documents/tds/MP4Phys/TD/TD12Redox.pdf){:target="_blank"}
 *   TD13: [Thermodynamique statistique](/assets/documents/tds/MP4Phys/TD/TD13Thermostat.pdf){:target="_blank"}
+
+Source : cpge paradise
+
+Si vous avez une question quelconque, n'hésitez pas à me contacter par [mail](https://www.prepashelter.com/contact/).

@@ -101,4 +101,6 @@ L’épreuve TIPE ENS est très imprévisible.Vous serez soit au tableau, soit a
 
 Par exemple, quand j’ai passé l’épreuve TIPE ENS, j’avais l’impression que le jury se fichait complêtement de mon TIPE. On a fait que des exercices de maths pendant tout l’oral, et le jury me disait des choses étranges du style "cet exercice est facile". Ne vous laissez donc pas destabiliser par ce genre de chose. Pensez à ramener votre powerpoint dans une clé usb le jour de l’épreuve.
 
+Source : cpge paradise
+
 Si vous avez une question quelconque, n'hésitez pas à me contacter par [mail](https://www.prepashelter.com/contact/).

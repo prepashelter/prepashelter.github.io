@@ -20,7 +20,7 @@ paginate: true
 ---
 
 J'ai créé ce Discord pour faciliter l'entraide entre étudiants (toute filière).
-Le serveur comporte des salons pour poser des questions dans toutes les matières de la filière MP mais aussi de la filière EC/Agro(BCPST)/Khagne. 
+Le serveur comporte des salons pour poser des questions de mathématiques, physique, SI-IPT, et bien d'autres matières. Toutes les filières sont bienvenues.
 
 **Invitation permanente** : [https://discord.gg/TGQSrnCxK2](https://discord.gg/TGQSrnCxK2)
 
