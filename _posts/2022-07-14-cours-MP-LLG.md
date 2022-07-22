@@ -1,7 +1,7 @@
 ---
 date: 2022-07-14 00:00:00
 layout: post
-title: Cours MP* LLG
+title: Cours MP*4 LLG
 subtitle: Disponible en PDF
 image: img/livre.jpg
 category: outils
