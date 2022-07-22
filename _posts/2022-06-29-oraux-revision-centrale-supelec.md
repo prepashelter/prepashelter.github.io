@@ -25,6 +25,17 @@ Pack de 104 exercices d'oraux de mathématiques tombés aux concours CentraleSup
 
 Vous pouvez télécharger les questions de cours gratuitement ci-dessous.
 
-[Poly CS](/assets/documents/outils/cs-2021.pdf){:target="_blank"}
+[Poly CS](/assets/documents/oraux/cs-2021.pdf){:target="_blank"}
+
+## Quelques corrigés 
+
+- [340](/assets/documents/oraux/Corrigés/oral-analyse-M312-318-C340.pdf){:target="_blank"} 
+- [528](/assets/documents/oraux/Corrigés/oral-analyse-C528.pdf){:target="_blank"}
+- [529](/assets/documents/oraux/Corrigés/oral-analyse-C529.pdf){:target="_blank"}
+- [531](/assets/documents/oraux/Corrigés/oral-analyse-C531.pdf){:target="_blank"}
+- [532](/assets/documents/oraux/Corrigés/oral-analyse-C532.pdf){:target="_blank"}
+- [534](/assets/documents/oraux/Corrigés/oral-analyse-C534.pdf){:target="_blank"}
+- [542-543](/assets/documents/oraux/Corrigés/oral-analyse-C542-543.pdf){:target="_blank"}
+
 
 Si vous avez une question quelconque, n'hésitez pas à me contacter par [mail](https://www.prepashelter.com/contact/).
