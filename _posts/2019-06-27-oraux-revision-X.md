@@ -1,7 +1,7 @@
 ---
 date: 2022-06-27 00:00:00
 layout: post
-title: Oraux de 2019 - Concours Polytechnique (Gratuit)
+title: Oraux de 2019 - Concours Polytechnique
 subtitle: Les exos sont accompagnés d'indications
 image: img/x.jpg
 category: oraux
