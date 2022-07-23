@@ -21,6 +21,4 @@ Vous trouverez sur ce site :
 - Des TDs corrigés comportant l'essentiel des techniques à connaître pour vous aider à aborder les écrits,
 - Des outils divers qui m'ont énormément servi pendant mes deux années de prépa.
 
-Tous les paiements sur mon site sont sécurisés avec [Splice](https://www.stripe.com) et les commandes sont envoyées par mail sous un délai d'un jour.
-
 Si vous avez une question quelconque, n'hésitez pas à me contacter par [mail](https://www.prepashelter.com/contact/) ou sur [discord](https://discord.gg/TGQSrnCxK2).
