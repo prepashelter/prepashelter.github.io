@@ -2,7 +2,7 @@
 date: 2022-07-15 00:00:00
 layout: post
 title: Annales de maths corrigées
-subtitle: Poly de révision Ginette 
+subtitle: Poly de révision 
 image: img/ecrits.jpeg
 category: annales
 tags:
@@ -24,7 +24,7 @@ tags:
 paginate: true
 ---
 
-Poly de Ginette pour se préparer aux épreuves de mathématiques de CCP, Polytechnique, Centrale-Supélec et Mines-Ponts.
+Poly de mathématiques pour se préparer aux épreuves de mathématiques de CCP, Centrale-Supélec et Mines-Ponts.
 
 ## Liste des annales 
 

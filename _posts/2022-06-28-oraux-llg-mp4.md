@@ -3,7 +3,7 @@ date: 2022-06-28 00:00:00
 layout: post
 title: Poly LLG MP*4 Oraux tombés en 2018 et en 2022
 subtitle: Des exos qui retombent chaque année
-image: img/centrale-supelec.jpg
+image: img/llg.jpg
 category: oraux
 tags:
   - CentraleSupélec

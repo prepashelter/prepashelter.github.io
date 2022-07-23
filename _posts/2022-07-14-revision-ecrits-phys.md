@@ -2,7 +2,7 @@
 date: 2022-07-14 00:00:00
 layout: post
 title: Annales de Physique-Chimie corrigées
-subtitle: Poly de révision Ginette 
+subtitle: Poly de révision 
 image: img/ecrits.jpeg
 category: annales
 tags:
@@ -23,7 +23,7 @@ tags:
 paginate: true
 ---
 
-Poly de Ginette pour se préparer aux épreuves de physique-chimie de CCP, Polytechnique, Centrale-Supélec et Mines-Ponts.
+Poly de révision pour se préparer aux épreuves de physique-chimie de CCP, Centrale-Supélec et Mines-Ponts.
 
 ## Enoncés 
 

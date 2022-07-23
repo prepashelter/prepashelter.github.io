@@ -1,7 +1,7 @@
 ---
 date: 2022-06-25 00:00:00
 layout: post
-title: Poly Ginette MP* 174 oraux classiques de maths - Concours ENS 2019
+title: Poly MP* 174 oraux classiques de maths - Concours ENS 2019
 subtitle: Des exos qui retombent chaque année
 image: img/ens.jpg
 category: oraux
@@ -19,7 +19,7 @@ tags:
 paginate: true
 ---
 
-## Préparation oral - Poly MP* Ginette
+## Préparation oral - Poly MP*
 
 Pack de 174 exercices d'oraux de mathématiques tombés aux ENS en 2019. Les exercices sont classiques et portent sur tous les chapitres sup/spé de la filière MP. Ils sont classés par niveau de difficulté et par thème (algèbre/analyse). 
 

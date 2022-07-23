@@ -1,7 +1,7 @@
 ---
 date: 2022-06-27 00:00:00
 layout: post
-title: Poly Ginette MP* 133 oraux classiques de maths - Concours Polytechnique 2022
+title: Poly MP* 133 oraux classiques de maths - Concours Polytechnique 2022
 subtitle: Des exos qui retombent chaque année
 image: img/x.jpg
 category: oraux
@@ -19,7 +19,7 @@ tags:
 paginate: true
 ---
 
-## Préparation oral - Poly MP* Ginette
+## Préparation oral - Poly MP*
 
 Pack de 133 exercices d'oraux de mathématiques tombés aux concours Polytechnique. Les exercices sont classiques et portent sur tous les chapitres sup/spé de la filière MP. Ils sont classés par niveau de difficulté et par chapitre. 
 

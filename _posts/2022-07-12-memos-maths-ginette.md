@@ -36,4 +36,6 @@ paginate: true
 - [Développements en série entière usuels](/assets/documents/outils/memos/dsememo.pdf){:target="_blank"}
 - [Mémo EQUATIONS DIFFERENTIELLES](/assets/documents/outils/memos/equadiffmemo.pdf){:target="_blank"}
 
+Source : [mp.bginette.com](http://mp.bginette.com/Maths/).
+
 Si vous avez une question quelconque, n'hésitez pas à me contacter par [mail](https://www.prepashelter.com/contact/).
