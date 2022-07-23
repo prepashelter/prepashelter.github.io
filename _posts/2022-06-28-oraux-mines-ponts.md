@@ -23,7 +23,7 @@ paginate: true
 
 Pack de 245 exercices d'oraux de mathématiques tombés aux concours Mines-Ponts. Les exercices sont classiques et portent sur tous les chapitres sup/spé de la filière MP. Ils sont classés par niveau de difficulté et par chapitre. 
 
-Vous pouvez télécharger les questions de cours gratuitement ci-dessous.
+Vous pouvez télécharger le poly sous format PDF gratuitement ci-dessous.
 
 [Poly Mines-Ponts](/assets/documents/oraux/mines-ponts-2021.pdf){:target="_blank"}
 
