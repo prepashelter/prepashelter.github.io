@@ -21,6 +21,12 @@ tags:
 paginate: true
 ---
 
+Tous les documents sont disponibles sur ces deux pages :
+
+- [CPGE Paradise Mathématiques](https://www.cpge-paradise.com/MP4Math.php)
+- [CPGE Paradise Physique](https://www.cpge-paradise.com/MP4Phys.php)
+
+<!---
 ## Mathématiques
 
 *   TD1: [Nombres rééls, suites](/assets/documents/tds/MP4Math/TD/TD1Reelssuites.pdf){:target="_blank"} - [Corrigé](/assets/documents/tds/MP4Math/Corriges/TD1.pdf){:target="_blank"}
@@ -66,7 +72,6 @@ paginate: true
 *   TD11: [Mécanique quantique](/assets/documents/tds/MP4Phys/TD/TD11mecaq.pdf){:target="_blank"}
 *   TD12: [Oxydo-réduction](/assets/documents/tds/MP4Phys/TD/TD12Redox.pdf){:target="_blank"}
 *   TD13: [Thermodynamique statistique](/assets/documents/tds/MP4Phys/TD/TD13Thermostat.pdf){:target="_blank"}
-
-Source : cpge paradise
+-->
 
 Si vous avez une question quelconque, n'hésitez pas à me contacter par [mail](https://www.prepashelter.com/contact/).
