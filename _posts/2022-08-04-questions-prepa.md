@@ -1,5 +1,5 @@
 ---
-date: 2022-07-17 00:00:00
+date: 2022-08-04 00:00:00
 layout: post
 title: Besoin d'aide en prépa ?
 subtitle: Le serveur Discord est là pour vous !
