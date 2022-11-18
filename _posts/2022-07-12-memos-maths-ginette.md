@@ -21,9 +21,9 @@ paginate: true
 ## Liste des polys donnés à Ginette 
 
 - [Mémo FONCTIONS DE LA VARIABLE REELLE](/assets/documents/outils/memos/foncunevarmemo.pdf){:target="_blank"}
-- [CALCUL APPROCHE D’UNE INTEGRALE](assets/documents/outils/memos/integraleapprochee.pdf){:target="_blank"}
+- [CALCUL APPROCHE D’UNE INTEGRALE](/assets/documents/outils/memos/integraleapprochee.pdf){:target="_blank"}
 - [Mémo DEVELOPPEMENTS LIMITES](/assets/documents/outils/memos/devtslimitesmemo.pdf){:target="_blank"}
-- [Primitives usuelles](/assets/documents/outils/memos/Primitives usuelles){:target="_blank"}
+- [Primitives usuelles](/assets/documents/outils/memos/primitives.pdf){:target="_blank"}
 - [Techniques de calculs de primitives de quelques classes de fonctions](/assets/documents/outils/memos/integraleseleves.pdf){:target="_blank"}
 - [Trigonométrie hyperbolique](/assets/documents/outils/memos/trighypememo.pdf){:target="_blank"}
 - [Trigonométrie](/assets/documents/outils/memos/trigomemo.pdf){:target="_blank"}
