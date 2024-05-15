@@ -7,7 +7,7 @@ description: Evan Treborn perd conscience et n'a pas de souvenirs lors
   rappeler de ces souvenirs perdus et un moyen surnaturel de changer sa vie en
   lisant son journal.
 image: /img/butterfly-effect.jpg
-category: "{{slug}}"
+category: films
 tags:
   - drame
   - thriller
