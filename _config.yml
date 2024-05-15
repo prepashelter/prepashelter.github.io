@@ -28,6 +28,8 @@ menu:
     url: category/tds
   - title: Outils divers
     url: category/outils
+  - title: Films
+    url: category/films
   - title: Contact
     url: contact
 email: 0ye@pm.me
