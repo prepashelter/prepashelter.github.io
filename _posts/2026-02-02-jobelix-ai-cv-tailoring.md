@@ -21,7 +21,7 @@ If you **do tailor it**, you’re ignored anyway, and you just lost 20 minutes.
 
 That’s why we built **Jobelix**.
 
-**Jobelix** is a desktop tool that automatically **adapts your CV and application answers to each LinkedIn job**, based on the job description — without spamming generic resumes.
+**Jobelix** is a desktop tool that automatically **adapts your CV and application answers to each LinkedIn job**, based on the job description,  without spamming generic resumes.
 
 👉 https://jobelix.fr
 
