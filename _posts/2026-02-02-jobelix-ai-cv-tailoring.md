@@ -23,7 +23,7 @@ That’s why we built **Jobelix**.
 
 **Jobelix** is a desktop tool that automatically **adapts your CV and application answers to each LinkedIn job**, based on the job description,  without spamming generic resumes.
 
-👉 https://jobelix.fr
+👉 [https://jobelix.fr](https://jobelix.fr)
 
 You define your full background once (projects, skills, education).  
 For every job, Jobelix selects only what’s relevant and applies for you.
