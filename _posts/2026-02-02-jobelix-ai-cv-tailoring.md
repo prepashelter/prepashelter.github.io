@@ -1,53 +1,31 @@
 ---
 date: 2026-02-01 00:15:00
 layout: post
-title: Jobelix – AI-Powered CV Tailoring for LinkedIn Applications
-description: Jobelix is a smart desktop tool that analyzes job descriptions and automatically tailors your CV and application answers for each LinkedIn job.
+title: Jobelix – Stop Sending the Same CV to Every Job
+description: Jobelix is a desktop tool that automatically tailors your CV for each LinkedIn job application.
 image: /img/jobelix-cover.jpg
 category: startup
 tags:
-  - ai
-  - cv
   - job-search
+  - cv
   - linkedin
   - automation
 author: Jobelix
 paginate: false
 ---
 
-Applying for jobs online often feels pointless.
+Applying online is broken.
 
-Tailor your CV → no reply.  
-Don’t tailor it → instant rejection.
+If you **don’t tailor your CV**, you’re rejected.  
+If you **do tailor it**, you’re ignored anyway — and you just lost 20 minutes.
 
-**Jobelix** fixes the real problem: **CV tailoring at scale**.
+That’s why we built **Jobelix**.
 
-## What is Jobelix?
-
-Jobelix is a **desktop LinkedIn auto-apply tool** that doesn’t spam generic resumes.
+**Jobelix** is a desktop tool that automatically **adapts your CV and application answers to each LinkedIn job**, based on the job description — without spamming generic resumes.
 
 👉 https://jobelix.fr
 
-## How it works
+You define your full background once (projects, skills, education).  
+For every job, Jobelix selects only what’s relevant and applies for you.
 
-- **Master Profile**: add all your projects, skills, education, and experience once  
-- **Job analysis**: each job description is analyzed automatically  
-- **Smart tailoring**: only the most relevant experiences are selected to generate:
-  - a tailored CV
-  - answers to application questions
-
-Each application is adapted to the job — automatically.
-
-## Pricing
-
-Freemium:
-- free daily tokens to test properly  
-- paid plans only for heavy usage
-
-## Platform support
-
-- Linux: supported  
-- Windows: supported (SmartScreen warning)  
-- macOS: coming later
-
-Jobelix is currently in **beta**. Feedback is welcome.
+It’s currently in **beta**, with a freemium model and support for Linux and Windows.
