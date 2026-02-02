@@ -17,7 +17,7 @@ paginate: false
 Applying online is broken.
 
 If you **don’t tailor your CV**, you’re rejected.  
-If you **do tailor it**, you’re ignored anyway — and you just lost 20 minutes.
+If you **do tailor it**, you’re ignored anyway, and you just lost 20 minutes.
 
 That’s why we built **Jobelix**.
 
