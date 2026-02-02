@@ -1,5 +1,5 @@
 ---
-date: 2026-02-02 00:15:00
+date: 2026-02-01 00:15:00
 layout: post
 title: Jobelix – AI-Powered CV Tailoring for LinkedIn Applications
 description: Jobelix is a smart desktop tool that analyzes job descriptions and automatically tailors your CV and application answers for each LinkedIn job.
